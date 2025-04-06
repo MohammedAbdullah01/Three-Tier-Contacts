@@ -1,0 +1,9 @@
+C:\Users\mm890\source\repos\ContactsConsoleApp3TierArchitecture\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\mm890\source\repos\ContactsConsoleApp3TierArchitecture\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\mm890\source\repos\ContactsConsoleApp3TierArchitecture\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\mm890\source\repos\ContactsConsoleApp3TierArchitecture\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\mm890\source\repos\ContactsConsoleApp3TierArchitecture\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mm890\source\repos\ContactsConsoleApp3TierArchitecture\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mm890\source\repos\ContactsConsoleApp3TierArchitecture\ContactsBusinessLayer\obj\Debug\Contacts.DFB66D76.Up2Date
+C:\Users\mm890\source\repos\ContactsConsoleApp3TierArchitecture\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.dll
+C:\Users\mm890\source\repos\ContactsConsoleApp3TierArchitecture\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.pdb
